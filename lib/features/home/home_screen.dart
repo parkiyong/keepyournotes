@@ -673,7 +673,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
               Icon(Icons.lightbulb, color: AppTheme.keepYellow, size: 28),
               SizedBox(width: 10),
               Text(
-                'Keep Notes',
+                'Keep Your Notes',
                 style: TextStyle(fontSize: 21, fontWeight: FontWeight.w600),
               ),
             ],

@@ -90,7 +90,7 @@ class _SettingsAndMigrationScreenState
         await SharePlus.instance.share(
           ShareParams(
             files: [XFile(result.archivePath!)],
-            subject: 'Keep Notes Full Backup Bundle',
+            subject: 'Keep Your Notes Full Backup Bundle',
           ),
         );
       }
